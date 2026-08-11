@@ -2,6 +2,8 @@
 
 ## What model does
 
+SARIMA is an extension of ARIMA. Both assumptions are described below. SARIMA models capture short and long-term dependencies within time series data. This model decomposes the series into trend, seasonal, and irregular components, models each separately, and recombines them for prediction.
+
 ## Assumptions
 
 ### 1. ARIMA
