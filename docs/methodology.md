@@ -4,15 +4,7 @@
 
 ## Data
 
-## Baseline Models
-
-## Exponential Smoothing
-
-## ARIMA / SARIMA
-
-## ARIMAX
-
-## BSTS
+## Models
 
 ## Backtesting
 
