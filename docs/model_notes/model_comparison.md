@@ -2,38 +2,12 @@
 
 ## Preprocessing and Assumptions
 
-#### ETS
-|Name|Description| |
-|---|---|---|
-|Stationary|Desc here|Emoji|
-|Differencing|Desc here|Emoji|
-|Moving Average|Desc here|Emoji|
-|Scaling|Desc here|Emoji|
-|Normalization|Desc here| Emoji|
+|Model|Stationary|Differencing|Moving Average|Scaling & Normalization|
+|---|---|---|---|---|
+|ETS|⛔|⛔|⛔|⛔|
+|ARIMA|✅Yes, after differencing|✅|✅|⛔|
+|SARIMA|✅Yes, after differencing|🟡Regular or seasonal|🟡Regular + seasonal MA terms|⛔|
+|ARIMAX|✅Yes, for stochastic components|🟡As needed|✅|🟡Scaling usually required|
+|BSTS|⛔|🟡Optional|🟡Optional|⛔|
 
-#### ARIMA/SARIMA
-|Name|Description| |
-|---|---|---|
-|Stationary|Desc here|Emoji|
-|Differencing|Desc here|Emoji|
-|Moving Average|Desc here|Emoji|
-|Scaling|Desc here|Emoji|
-|Normalization|Desc here| Emoji|
 
-#### ARIMAX
-|Name|Description| |
-|---|---|---|
-|Stationary|Desc here|Emoji|
-|Differencing|Desc here|Emoji|
-|Moving Average|Desc here|Emoji|
-|Scaling|Desc here|Emoji|
-|Normalization|Desc here| Emoji|
-
-#### BSTS
-|Name|Description| |
-|---|---|---|
-|Stationary|Desc here|Emoji|
-|Differencing|Desc here|Emoji|
-|Moving Average|Desc here|Emoji|
-|Scaling|Desc here|Emoji|
-|Normalization|Desc here| Emoji|
