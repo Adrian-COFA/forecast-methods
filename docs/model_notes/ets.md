@@ -101,5 +101,8 @@ unless these are incorporated through a separate modeling framework.
 
 ## R implementation
 
-## Model Evaluation
+See [forecast](https://www.rdocumentation.org/packages/forecast/versions/9.0.1) for documentation on how these methods are applied in R.
 
+## Learn more
+
+See [this blog](https://www.statsmodels.org/devel/examples/notebooks/generated/ets.html) on statsmodels for more information and how to implement in python.
