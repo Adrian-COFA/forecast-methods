@@ -2,6 +2,8 @@
 
 ## What model does
 
+This model adds onto traditional ARIMA models by allowing exogenous variables to impact predictions. This framework allows for additional factors to enhance forecasting accuracy, such as economic indicators.
+
 ## Assumptions
 
 # ARIMAX Model Assumptions
